@@ -7,4 +7,5 @@ void main()
 {
 	cout << SZOVEG << endl;
 	cout << "David exists" << endl;
+	cout << "modositas" << endl;
 }
