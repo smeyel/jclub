@@ -1,7 +1,7 @@
 #ifndef __HELLO_H
 #define __HELLO_H
 
-#define SZOVEG "SzerVusztok!"
+#define SZOVEG "SzerVusztok! CONFLICT!"
 
 #endif
 
